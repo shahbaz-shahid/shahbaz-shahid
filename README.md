@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JAVA SCRIPT,REACT.JS,NODE.JS,CORE JAVA & Etc.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShahbazShahid999](https://github.com/ShahbazShahid999)
+- 👨‍💻 All of my projects are available at [https://github.com/shahbaz-shahid](https://github.com/ShahbazShahid999)
 
 - 📫 How to reach me **shahbazakhtar121122@gmail.com**
 
