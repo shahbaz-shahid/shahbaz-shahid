@@ -1,4 +1,5 @@
-![logo](https://github.com/shahbaz-shahid/shahbaz-pro/blob/main/Blue%20Professional%20Modern%20Minimalist%20Simple%20Clean%20LinkedIn%20Career%20Page%20Background.png)
+![shahbaz shahid deveeloper pic](https://github.com/shahbaz-shahid/shahbaz-shahid/assets/171285019/19ea73d1-4a01-493c-a8ce-78e4f7c56b70)
+)
 <h1 align="center">Hi 👋, I'm shahbaz shahid</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right"alt="coding"width="400"src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
@@ -6,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JAVA SCRIPT,REACT.JS,NODE.JS,CORE JAVA & Etc.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shahbaz-shahid](https://github.com/ShahbazShahid999)
+- 👨‍💻 All of my projects are available at [https://github.com/shahbaz-shahid](https://github.com/shahbaz-shahid)
 
 - 📫 How to reach me **shahbazakhtar121122@gmail.com**
 
