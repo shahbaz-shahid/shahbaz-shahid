@@ -1,7 +1,7 @@
 ![shahbaz shahid deveeloper pic](https://github.com/shahbaz-shahid/shahbaz-shahid/assets/171285019/19ea73d1-4a01-493c-a8ce-78e4f7c56b70)
 )
 <h1 align="center">Hi 👋, I'm shahbaz shahid</h1>
-<h3 align="center">A passionate software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right"alt="coding"width="400"src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbaz-shahid&label=Profile%20views&color=0e75b6&style=flat" alt="shahbaz-shahid" /> </p>
 
